@@ -1,7 +1,6 @@
 ### Hi there, I’m Oleh 👋
 - 🔭 I'm Software Engineer
 - 🌱 I’m from Ukraine
-- 👯 I’m a student Lviv Ivan Franko National University at Faculty of Applied Mathematics and Informatics
 ### Connect with me:
 <a href="https://www.linkedin.com/in/oleh-voroniak/"><img align="left"  width = "42px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/>
   <a href="https://www.instagram.com/avevoroniak/"><img align="left"  width = "42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png"/>
